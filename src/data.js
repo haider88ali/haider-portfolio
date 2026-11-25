@@ -1,5 +1,5 @@
 export const EMAIL = "ali88haider8875@gmail.com"
-export const RESUME = "https://drive.google.com/file/d/1jppxNHzlNW_v5zQEWF3XSje689qmXOFF/view?usp=sharing"
+export const RESUME = "https://drive.google.com/file/d/1QkCl4wrxLNBQDE3Q6AnMpvWELAwQbvZm/view?usp=sharing"
 export const LINKEDIN = "https://www.linkedin.com/in/haider-zafar-b4872a1b8"
 export const GITHUB = "https://github.com/haider88ali"
 
