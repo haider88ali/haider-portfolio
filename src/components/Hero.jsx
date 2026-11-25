@@ -17,8 +17,7 @@ export default function Hero() {
       <div className="wrap hero__grid">
         <div>
           <div className="pill"><b /> Full Stack AI Developer | Generative AI Engineer</div>
-          <h1>Putting <span className="grad">AI</span> to work in real products</h1>
-          <div className="hero__name">Haider Ali — Full Stack AI Developer &amp; Generative AI Engineer</div>
+          <h1 className="hero__name">Haider Ali — Full Stack AI Developer &amp; Generative AI Engineer</h1>
           <div className="hero__role">{role}<span className="caret" /></div>
           <p className="tech-line">Python • FastAPI • PHP • Laravel • Node.js • React.js</p>
           <p className="lead">I design and ship full stack web applications, Generative AI products and AI automation — LLM apps, agents and RAG pipelines end to end on Python, FastAPI, PHP, Laravel, Node.js and React.js — backed by 5+ years of full stack engineering.</p>

@@ -151,7 +151,7 @@ section{position:relative;z-index:1}
 @media(prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}.rv{opacity:1;transform:none}}
 
 /* AI emphasis */
-.hero__name{font-weight:600;color:var(--a2);margin-bottom:10px;letter-spacing:.02em}
+.hero .hero__name{font-size:clamp(1.8rem,4.4vw,3.2rem);font-weight:700;margin-bottom:18px;letter-spacing:-.02em;color:var(--text)}
 .pill{border-color:rgba(124,92,255,.5);color:var(--text);background:linear-gradient(120deg,rgba(124,92,255,.18),rgba(0,212,255,.1))}
 .ai-ico{font-size:1.25rem;width:26px;text-align:center;color:var(--a2)}
 .skill--ai{border-color:rgba(124,92,255,.35);background:linear-gradient(120deg,rgba(124,92,255,.12),rgba(0,212,255,.06))}
